@@ -922,7 +922,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IbXxLd17nrQ0el8zbmmy-99" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Monitoring Progress" vertex="1">
+        <mxCell id="IbXxLd17nrQ0el8zbmmy-99" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Monitoring Progress Project" vertex="1">
           <mxGeometry height="1140" width="320" x="-3740" y="60" as="geometry" />
         </mxCell>
         <mxCell id="IbXxLd17nrQ0el8zbmmy-106" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;Login&#xa;&#xa;" vertex="1">
@@ -937,7 +937,7 @@
         <mxCell id="IbXxLd17nrQ0el8zbmmy-109" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Project" vertex="1">
           <mxGeometry height="80" width="120" x="100" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="IbXxLd17nrQ0el8zbmmy-110" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Module" vertex="1">
+        <mxCell id="IbXxLd17nrQ0el8zbmmy-110" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Module/&lt;div&gt;Backlog&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="100" y="410" as="geometry" />
         </mxCell>
         <mxCell id="IbXxLd17nrQ0el8zbmmy-111" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Assign Developer" vertex="1">
@@ -946,7 +946,7 @@
         <mxCell id="IbXxLd17nrQ0el8zbmmy-112" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Update Status Module" vertex="1">
           <mxGeometry height="80" width="120" x="100" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="IbXxLd17nrQ0el8zbmmy-113" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Review QC" vertex="1">
+        <mxCell id="IbXxLd17nrQ0el8zbmmy-113" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Input Hasil QC " vertex="1">
           <mxGeometry height="80" width="120" x="100" y="680" as="geometry" />
         </mxCell>
         <mxCell id="IbXxLd17nrQ0el8zbmmy-114" parent="IbXxLd17nrQ0el8zbmmy-99" style="ellipse;whiteSpace=wrap;html=1;" value="Melihat Dashboard" vertex="1">
