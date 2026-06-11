@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="5514" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5108" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2168,7 +2168,7 @@
           <mxGeometry height="30" width="166" x="-1539" y="2768" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-242" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="50" width="10" x="-1735" y="2836" as="geometry" />
+          <mxGeometry height="84" width="10" x="-1735" y="2836" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-243" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-242" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-224" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2184,6 +2184,78 @@
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-245" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="11. Perbaiki Module" vertex="1">
           <mxGeometry height="30" width="166" x="-1344" y="2820" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-246" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="38" width="10" x="-1557" y="2905" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-247" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-246" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-237" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1461" y="3145" as="sourcePoint" />
+            <mxPoint x="-1565" y="2860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-248" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1725" y="2913" as="sourcePoint" />
+            <mxPoint x="-1557" y="2913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-249" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="12. Update Status Ready QC" vertex="1">
+          <mxGeometry height="30" width="166" x="-1722" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-250" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="-1374" y="2930" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-251" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-250" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-232" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1347" y="3003.25" as="sourcePoint" />
+            <mxPoint x="-1375" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-252" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1547" y="2938" as="sourcePoint" />
+            <mxPoint x="-1374" y="2938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-253" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="13. Simpan Status Ready QC" vertex="1">
+          <mxGeometry height="30" width="166" x="-1544" y="2905" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-254" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="38" width="10" x="-1557" y="2994" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-255" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-254" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1448" y="3237" as="sourcePoint" />
+            <mxPoint x="-1552" y="2905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-256" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10. Update Progress Project" vertex="1">
+          <mxGeometry height="30" width="164" x="-1544" y="2994" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-257" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-258" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1547" y="3026" as="sourcePoint" />
+            <mxPoint x="-1390" y="3026" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-258" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="38" width="10" x="-1373" y="3013" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-259" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-258" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-250" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1271" y="3265" as="sourcePoint" />
+            <mxPoint x="-1375" y="2980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-260" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-261" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-965" y="3110.88" as="sourcePoint" />
+            <mxPoint x="-998" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-261" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="72" width="10" x="-1003" y="3032" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
