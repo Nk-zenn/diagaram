@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="6434" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5751" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1687,17 +1687,11 @@
             <mxPoint x="-2172" y="2697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iQp16NYkLl_Dy3gtCIuO-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5. Mengembalikan Hasil Validasi" vertex="1">
-          <mxGeometry height="30" width="130" x="-2080" y="2446" as="geometry" />
-        </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-97" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-122" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-2720" y="2521" as="sourcePoint" />
             <mxPoint x="-2553" y="2521" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iQp16NYkLl_Dy3gtCIuO-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Data tidak sesuai" vertex="1">
-          <mxGeometry height="30" width="130" x="-2070" y="2520" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-99" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="44.5" width="10" x="-2905" y="2452.75" as="geometry" />
@@ -1747,20 +1741,6 @@
             <mxPoint x="-2365" y="3000" as="sourcePoint" />
             <mxPoint x="-2365" y="2870" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iQp16NYkLl_Dy3gtCIuO-112" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="-2100" y="2570" />
-              <mxPoint x="-2055" y="2570" />
-              <mxPoint x="-2055" y="2600" />
-            </Array>
-            <mxPoint x="-2100" y="2580.0000000000005" as="sourcePoint" />
-            <mxPoint x="-2100" y="2600.0000000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iQp16NYkLl_Dy3gtCIuO-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. Validasi Data" vertex="1">
-          <mxGeometry height="30" width="90" x="-2070" y="2396" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-114" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-115" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-122" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1861,7 +1841,7 @@
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="9. Simpan Assignment Developer" vertex="1">
           <mxGeometry height="30" width="130" x="-2523" y="2590" as="geometry" />
         </mxCell>
-        <mxCell id="iQp16NYkLl_Dy3gtCIuO-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10. Menampilkan Assignment Module" vertex="1">
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10. Mengirim Assignment Module" vertex="1">
           <mxGeometry height="30" width="130" x="-2520" y="2664" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-137" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
