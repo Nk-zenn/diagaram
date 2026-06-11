@@ -2147,7 +2147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-237" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="91" width="10" x="-1557" y="2772" as="geometry" />
+          <mxGeometry height="38" width="10" x="-1557" y="2772" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-238" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-237" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-226" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2156,13 +2156,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-239" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="75" width="10" x="-1176" y="2788" as="geometry" />
+          <mxGeometry height="72" width="10" x="-1176" y="2788" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-240" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1547" y="2799.5" as="sourcePoint" />
             <mxPoint x="-1176" y="2799.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-241" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10. Kirim Notifikasi Rejected" vertex="1">
+          <mxGeometry height="30" width="166" x="-1539" y="2768" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-242" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="-1735" y="2836" as="geometry" />
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-243" edge="1" parent="1" source="iQp16NYkLl_Dy3gtCIuO-242" style="endArrow=none;dashed=1;html=1;rounded=0;" target="iQp16NYkLl_Dy3gtCIuO-224" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1586" y="2989" as="sourcePoint" />
+            <mxPoint x="-1675" y="2740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-244" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1176" y="2853" as="sourcePoint" />
+            <mxPoint x="-1725" y="2853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-245" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="11. Perbaiki Module" vertex="1">
+          <mxGeometry height="30" width="166" x="-1344" y="2820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
