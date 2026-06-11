@@ -3269,7 +3269,7 @@
             <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iQp16NYkLl_Dy3gtCIuO-581" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="Activity_Logs" vertex="1">
+        <mxCell id="iQp16NYkLl_Dy3gtCIuO-581" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="System_Settings" vertex="1">
           <mxGeometry height="120" width="180" x="-3040" y="3930" as="geometry" />
         </mxCell>
         <mxCell id="iQp16NYkLl_Dy3gtCIuO-585" parent="iQp16NYkLl_Dy3gtCIuO-581" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" value="" vertex="1">
