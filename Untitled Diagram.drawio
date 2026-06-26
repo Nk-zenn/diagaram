@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="5140" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5751" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3503,49 +3503,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Project Manager&lt;br&gt;(Membagi Tugas)" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1603.25" y="3511" as="geometry" />
+          <mxGeometry height="60" width="173.5" x="-1619.75" y="3640" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-54" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Progress Jira/Trello" vertex="1">
-          <mxGeometry height="40" width="173.5" x="-1603.25" y="3745" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Progress (Jira/Trello)" vertex="1">
+          <mxGeometry height="40" width="173.5" x="-1620" y="3845" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-56" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Quality Assurance (QA)&lt;br&gt;(Pengujian)" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1603" y="3841" as="geometry" />
+          <mxGeometry height="60" width="173.5" x="-1619.75" y="3941" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-58" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stakeholder&lt;div&gt;(Mengajukan Permintaan Dashboard)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="173.5" x="-1603.25" y="3291" as="geometry" />
+          <mxGeometry height="70" width="173.5" x="-1620" y="3424" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-60" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Project Manager&lt;div&gt;(Menganalisis Kebutuhan&lt;br&gt;&amp;amp;&lt;br&gt;Menyusun Rencana Kerja)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="173.5" x="-1603.25" y="3401" as="geometry" />
+          <mxGeometry height="70" width="173.5" x="-1619.75" y="3530" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-62" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-65" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Deploy" vertex="1">
-          <mxGeometry height="40" width="173.5" x="-1603" y="4069" as="geometry" />
+          <mxGeometry height="40" width="173.5" x="-1619.75" y="4169" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-64" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Monitoring &amp;amp; Maintenance" vertex="1">
-          <mxGeometry height="40" width="173.5" x="-1603.25" y="4156" as="geometry" />
+          <mxGeometry height="40" width="173.5" x="-1620" y="4256" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-66" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-59" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="50" width="97" x="-1565" y="3200" as="geometry" />
+          <mxGeometry height="50" width="97" x="-1581.5" y="3340" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-68" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-63" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3554,34 +3554,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-70" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Apakah sesuai?" vertex="1">
-          <mxGeometry height="80" width="80" x="-1556.5" y="3949" as="geometry" />
+          <mxGeometry height="80" width="80" x="-1573.25" y="4049" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Finish" vertex="1">
-          <mxGeometry height="50" width="97" x="-1564.75" y="4236" as="geometry" />
+          <mxGeometry height="50" width="97" x="-1581.5" y="4336" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
-          <mxGeometry height="30" width="60" x="-1527.75" y="4029" as="geometry" />
+          <mxGeometry height="30" width="60" x="-1544.5" y="4129" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-73" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-76" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Developer&lt;br&gt;Perbaikan Bug" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1359.5" y="3959" as="geometry" />
+          <mxGeometry height="60" width="173.5" x="-1376.25" y="4059" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-75" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-57" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Progress" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1359.5" y="3841" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Developer&lt;br&gt;Memperbarui Progress&lt;br&gt;(Jira/Trello)" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1376.25" y="3941" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
-          <mxGeometry height="30" width="60" x="-1449.5" y="3959" as="geometry" />
+          <mxGeometry height="30" width="60" x="-1466.25" y="4059" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-80" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-55" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Developer&lt;div&gt;(Mengembangkan Aplikasi)&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1603" y="3630" as="geometry" />
+          <mxGeometry height="60" width="173.5" x="-1620" y="3750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
