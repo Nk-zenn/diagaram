@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="7253" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7681" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3615,6 +3615,78 @@
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stakeholder&lt;br&gt;Melihat Dashboard" vertex="1">
           <mxGeometry height="50" width="173.5" x="-1619.5" y="4520" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;" value="Sistem Monitoring Progress Project" vertex="1">
+          <mxGeometry height="1850" width="650" x="-730" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-29" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Login" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-82" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Melihat Dashboard" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-83" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Logout" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-88" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Mengelola User" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-89" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Mengelola Stakeholder" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-90" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="System&lt;div&gt;Settings&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-92" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Activity Log" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-93" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Update Progress Module" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-94" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Mengelola Project" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-95" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Generate Laporan PDF" vertex="1">
+          <mxGeometry height="100" width="150" x="70" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-96" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Mengelola Module" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-97" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Assign Developer" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-98" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Monitoring Progress" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-99" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Quality&lt;div&gt;Control Assessment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-100" parent="Bz7xkO_JchnPT5TZXT7i-28" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Melihat Progress&lt;div&gt;Project&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="320" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-101" edge="1" parent="Bz7xkO_JchnPT5TZXT7i-28" source="Bz7xkO_JchnPT5TZXT7i-94" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Bz7xkO_JchnPT5TZXT7i-95" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="190" y="710" as="sourcePoint" />
+            <mxPoint x="350" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-102" parent="Bz7xkO_JchnPT5TZXT7i-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(include)" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-45" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;" value="Developer" vertex="1">
+          <mxGeometry height="60" width="30" x="-990" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-50" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;" value="Quality Assurance (QA)" vertex="1">
+          <mxGeometry height="56" width="31" x="-991" y="3854" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-54" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;" value="Stakeholder" vertex="1">
+          <mxGeometry height="60" width="30" x="-990" y="4140" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-67" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;" value="Administrator" vertex="1">
+          <mxGeometry height="60" width="30" x="272" y="3677" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-75" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;" value="Project Manager" vertex="1">
+          <mxGeometry height="60" width="30" x="278" y="3950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
