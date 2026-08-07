@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="5966" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6652" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3503,25 +3503,25 @@
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-7" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-78" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dashboard sesuai Role" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1619.5" y="3670" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Dashboard sesuai Role" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1620" y="3650.5" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-9" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-57" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assignment Task ke Developer" vertex="1">
-          <mxGeometry height="40" width="173.5" x="-1619.5" y="3890" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Project Manager&amp;nbsp; Assignment Task ke Developer" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1620" y="3851" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-11" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-76" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Developer Mengerjakan Task" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1619.5" y="3980" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Developer Mengerjakan Task" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1619.5" y="3943" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-58" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Login ke Sistem" vertex="1">
+        <mxCell id="oUXPPGc17os3FuYUnank-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Login ke Sistem" vertex="1">
           <mxGeometry height="70" width="173.5" x="-1620" y="3424" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-3" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-53" value="">
@@ -3530,26 +3530,26 @@
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-5" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem Memvalidasi Login" vertex="1">
-          <mxGeometry height="70" width="173.5" x="-1619.75" y="3530" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Sistem Memvalidasi Login" vertex="1">
+          <mxGeometry height="70" width="173.5" x="-1620" y="3530" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-13" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-74" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Project Manager Monitoring Progress" vertex="1">
-          <mxGeometry height="40" width="173.5" x="-1619.5" y="4183" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Project Manager&lt;div&gt;Monitoring Progress&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1620" y="4127" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-25" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Bz7xkO_JchnPT5TZXT7i-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Project Selesai" vertex="1">
-          <mxGeometry height="40" width="173.5" x="-1848.75" y="4400" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Status Module&lt;div&gt;Menjadi Solve&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="173.5" x="-1848.75" y="4330" as="geometry" />
         </mxCell>
         <mxCell id="oUXPPGc17os3FuYUnank-66" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-59" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="50" width="97" x="-1581.5" y="3340" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Start" vertex="1">
+          <mxGeometry height="50" width="97" x="-1581.75" y="3350" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-16" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-65" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3557,65 +3557,59 @@
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-17" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Bz7xkO_JchnPT5TZXT7i-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-70" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Apakah sesuai?" vertex="1">
-          <mxGeometry height="80" width="80" x="-1572.75" y="4380" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-70" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" value="Apakah sesuai?" vertex="1">
+          <mxGeometry height="90" width="80" x="-1572.75" y="4310" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Finish" vertex="1">
-          <mxGeometry height="50" width="97" x="-1581.25" y="4620" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Finish" vertex="1">
+          <mxGeometry height="50" width="97" x="-1581.25" y="4528" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-15" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="QA Melakukan Pengujian" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1619.5" y="4264" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="QA Melakukan Pengujian" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1619.5" y="4220" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-12" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-63" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Developer Update Progress&amp;nbsp;&lt;div&gt;melalui Sistem&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1619.5" y="4083" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Developer Update Progress&amp;nbsp;&lt;div&gt;melalui Sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1619.5" y="4037" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-8" edge="1" parent="1" source="oUXPPGc17os3FuYUnank-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-55" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUXPPGc17os3FuYUnank-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Project Manager Mengelola&lt;br&gt;      Project, Module dan Sprint&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1619.5" y="3780" as="geometry" />
+        <mxCell id="oUXPPGc17os3FuYUnank-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;div&gt;Project Manager&lt;/div&gt;&lt;div&gt;Mengelola&lt;br&gt;      Project, Module&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;amp; Sprint&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="173.5" x="-1620" y="3748" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Berhasil" vertex="1">
-          <mxGeometry height="30" width="60" x="-1534" y="3620" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Berhasil" vertex="1">
+          <mxGeometry height="30" width="60" x="-1534" y="3610" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gagal Login" vertex="1">
-          <mxGeometry height="30" width="100" x="-1438" y="3490" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Gagal Login" vertex="1">
+          <mxGeometry height="30" width="100" x="-1435" y="3490" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-21" edge="1" parent="1" source="Bz7xkO_JchnPT5TZXT7i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Bz7xkO_JchnPT5TZXT7i-20" value="">
+        <mxCell id="s2_sOzbDEjM0uCdgoTag-4" edge="1" parent="1" source="Bz7xkO_JchnPT5TZXT7i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="oUXPPGc17os3FuYUnank-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Developer Melakukan Perbaikan" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1373" y="4390" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Developer Melakukan Perbaikan" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1373" y="4325" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
-          <mxGeometry height="30" width="60" x="-1650" y="4390" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="-1650" y="4324" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
-          <mxGeometry height="30" width="60" x="-1480" y="4390" as="geometry" />
-        </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-22" edge="1" parent="1" source="Bz7xkO_JchnPT5TZXT7i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-74" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Progress di Sistem" vertex="1">
-          <mxGeometry height="60" width="173.5" x="-1373" y="4264" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="-1480" y="4324" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-26" edge="1" parent="1" source="Bz7xkO_JchnPT5TZXT7i-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Bz7xkO_JchnPT5TZXT7i-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Project Manager&lt;br&gt;Generate Report PDF" vertex="1">
-          <mxGeometry height="50" width="173.5" x="-1848.75" y="4520" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Sistem Memperbarui Progress Project" vertex="1">
+          <mxGeometry height="50" width="173.5" x="-1848.75" y="4428" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-27" edge="1" parent="1" source="Bz7xkO_JchnPT5TZXT7i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUXPPGc17os3FuYUnank-71" value="">
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-27" edge="1" parent="1" source="s2_sOzbDEjM0uCdgoTag-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oUXPPGc17os3FuYUnank-71" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bz7xkO_JchnPT5TZXT7i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stakeholder&lt;br&gt;Melihat Dashboard" vertex="1">
-          <mxGeometry height="50" width="173.5" x="-1619.5" y="4520" as="geometry" />
+        <mxCell id="Bz7xkO_JchnPT5TZXT7i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Project Manager / Stakeholder Melihat Progress&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1619.5" y="4423" as="geometry" />
         </mxCell>
         <mxCell id="Bz7xkO_JchnPT5TZXT7i-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;startSize=60;" value="Sistem Informasi Monitoring Progres Pengembangan Aplikasi" vertex="1">
           <mxGeometry height="1590" width="540" x="-610" y="3340" as="geometry" />
@@ -3899,6 +3893,14 @@
             <mxPoint x="-511" y="2330" as="sourcePoint" />
             <mxPoint x="-410" y="2330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_sOzbDEjM0uCdgoTag-2" edge="1" parent="1" source="Bz7xkO_JchnPT5TZXT7i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="s2_sOzbDEjM0uCdgoTag-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1440" y="4470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_sOzbDEjM0uCdgoTag-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Developer Melakukan Perbaikan" vertex="1">
+          <mxGeometry height="60" width="173.5" x="-1373" y="4423" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
