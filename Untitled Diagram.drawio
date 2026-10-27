@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="7681" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5251" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8223,21 +8223,21 @@
         <mxCell id="tCBv95GZjOtxrKbCYlcE-97" parent="tCBv95GZjOtxrKbCYlcE-47" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;fontSize=20;" value="Menugaskan Developer" vertex="1">
           <mxGeometry height="100" width="150" x="70" y="611" as="geometry" />
         </mxCell>
-        <mxCell id="tCBv95GZjOtxrKbCYlcE-98" edge="1" parent="tCBv95GZjOtxrKbCYlcE-47" source="tCBv95GZjOtxrKbCYlcE-97" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="tCBv95GZjOtxrKbCYlcE-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+        <mxCell id="tCBv95GZjOtxrKbCYlcE-100" edge="1" parent="tCBv95GZjOtxrKbCYlcE-47" source="tCBv95GZjOtxrKbCYlcE-97" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tCBv95GZjOtxrKbCYlcE-58" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" x="0.0783" y="21" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="270" y="681" as="sourcePoint" />
-            <mxPoint x="310" y="731" as="targetPoint" />
+            <mxPoint x="180" y="711" as="sourcePoint" />
+            <mxPoint x="340" y="711" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tCBv95GZjOtxrKbCYlcE-59" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="Developer" vertex="1">
-          <mxGeometry height="60" width="30" x="2780" y="5525" as="geometry" />
+          <mxGeometry height="60" width="30" x="2840" y="5500" as="geometry" />
         </mxCell>
         <mxCell id="tCBv95GZjOtxrKbCYlcE-60" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="Quality Assurance (QA)" vertex="1">
-          <mxGeometry height="56" width="31" x="2780" y="5845" as="geometry" />
+          <mxGeometry height="56" width="31" x="2840" y="5821" as="geometry" />
         </mxCell>
         <mxCell id="tCBv95GZjOtxrKbCYlcE-61" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="Stakeholder" vertex="1">
-          <mxGeometry height="60" width="30" x="2780" y="6140" as="geometry" />
+          <mxGeometry height="60" width="30" x="2840" y="6126.5" as="geometry" />
         </mxCell>
         <mxCell id="tCBv95GZjOtxrKbCYlcE-63" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" value="Project Manager" vertex="1">
           <mxGeometry height="60" width="30" x="3860" y="5670" as="geometry" />
