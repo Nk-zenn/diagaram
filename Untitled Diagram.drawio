@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="5697" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6321" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8907,7 +8907,7 @@
         <mxCell id="KYKwa7nhER8foC83LQPJ-188" edge="1" parent="1" source="KYKwa7nhER8foC83LQPJ-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KYKwa7nhER8foC83LQPJ-191" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" value="Stakeholder" vertex="1">
+        <mxCell id="KYKwa7nhER8foC83LQPJ-191" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" value="PM / Stakeholder" vertex="1">
           <mxGeometry height="756" width="290" x="-1590" y="8045" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-192" edge="1" parent="KYKwa7nhER8foC83LQPJ-191" source="KYKwa7nhER8foC83LQPJ-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" target="KYKwa7nhER8foC83LQPJ-195">
