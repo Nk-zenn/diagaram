@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="7691" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7151" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10695,6 +10695,30 @@
               <mxPoint x="2090" y="847.3" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="1360" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="1245" y="603" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="1245" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="60" x="1250" y="878" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="1360" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="1260" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="1360" y="678" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p6OjeZcHuSzV16m5Vf-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tidak" vertex="1">
+          <mxGeometry height="30" width="60" x="1350" y="812.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
