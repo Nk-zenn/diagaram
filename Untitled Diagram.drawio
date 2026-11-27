@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5R8-yZKNFgqTIi_FLQ9W">
-    <mxGraphModel dx="8452" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7666" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8795,7 +8795,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-151" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" value="Project Manager" vertex="1">
-          <mxGeometry height="1045" width="290" x="-2225.5" y="8045" as="geometry" />
+          <mxGeometry height="906" width="290" x="-2225.5" y="8045" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-152" edge="1" parent="KYKwa7nhER8foC83LQPJ-151" source="KYKwa7nhER8foC83LQPJ-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" target="KYKwa7nhER8foC83LQPJ-155">
           <mxGeometry relative="1" as="geometry" />
@@ -8825,7 +8825,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-161" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;" value="System" vertex="1">
-          <mxGeometry height="1045" width="290" x="-1935.5" y="8045" as="geometry" />
+          <mxGeometry height="906" width="290" x="-1935.5" y="8045" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-162" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Menampilkan Dashboard PM" vertex="1">
           <mxGeometry height="60" width="120" x="85" y="105" as="geometry" />
@@ -8834,16 +8834,16 @@
           <mxGeometry height="60" width="120" x="85" y="241" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-164" parent="KYKwa7nhER8foC83LQPJ-161" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="130" y="995" as="geometry" />
+          <mxGeometry height="30" width="30" x="130" y="843" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-165" parent="KYKwa7nhER8foC83LQPJ-161" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Selesai" vertex="1">
-          <mxGeometry height="30" width="60" x="70" y="995" as="geometry" />
+          <mxGeometry height="30" width="60" x="70" y="843" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-240" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" source="KYKwa7nhER8foC83LQPJ-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-169" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" value="Menampilkan Notifikasi berhasil" vertex="1">
-          <mxGeometry height="60" width="155" x="67.5" y="905" as="geometry" />
+          <mxGeometry height="60" width="155" x="67.5" y="753" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-235" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" source="KYKwa7nhER8foC83LQPJ-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-173">
           <mxGeometry relative="1" as="geometry" />
@@ -8851,8 +8851,10 @@
         <mxCell id="KYKwa7nhER8foC83LQPJ-171" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Menyimpan Assignment" vertex="1">
           <mxGeometry height="45" width="155" x="67.5" y="512.5" as="geometry" />
         </mxCell>
-        <mxCell id="KYKwa7nhER8foC83LQPJ-236" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" source="KYKwa7nhER8foC83LQPJ-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-231">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KYKwa7nhER8foC83LQPJ-236" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" source="KYKwa7nhER8foC83LQPJ-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="661" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-173" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" value="Memperbarui Data Module" vertex="1">
           <mxGeometry height="45" width="155" x="67.5" y="585" as="geometry" />
@@ -8864,19 +8866,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-189" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" value="Membuat Notifikasi Penugasan ke Dev" vertex="1">
-          <mxGeometry height="60" width="155" x="67.5" y="815" as="geometry" />
+          <mxGeometry height="60" width="155" x="67.5" y="663" as="geometry" />
         </mxCell>
-        <mxCell id="KYKwa7nhER8foC83LQPJ-237" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" source="KYKwa7nhER8foC83LQPJ-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-232">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KYKwa7nhER8foC83LQPJ-231" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" value="Memperbarui Data Module" vertex="1">
-          <mxGeometry height="45" width="155" x="67.5" y="661" as="geometry" />
-        </mxCell>
-        <mxCell id="KYKwa7nhER8foC83LQPJ-238" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" source="KYKwa7nhER8foC83LQPJ-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-189">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KYKwa7nhER8foC83LQPJ-232" parent="KYKwa7nhER8foC83LQPJ-161" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" value="Memperbarui Data Module" vertex="1">
-          <mxGeometry height="45" width="155" x="67.5" y="738" as="geometry" />
+        <mxCell id="KYKwa7nhER8foC83LQPJ-237" edge="1" parent="KYKwa7nhER8foC83LQPJ-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KYKwa7nhER8foC83LQPJ-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="706" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KYKwa7nhER8foC83LQPJ-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;h1 class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;Activity Diagram Penugasan Developer&lt;/h1&gt;&lt;h2&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="30" width="290" x="-2075.5" y="7985" as="geometry" />
